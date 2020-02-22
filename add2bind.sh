@@ -13,7 +13,7 @@ else
   echo "Lütfen alan adını seçiniz!"
   echo
   echo
-  echo "Örnek: sh $0 hasokeyk.com"
+  echo "Örnek: sh $0 muslu.org"
   exit
 fi
 
